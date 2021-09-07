@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Inventory>
+  <Item>
+    <Name>Test Bok 1</Name>
+    <Count>50</Count>
+    <Price>55</Price>
+    <Comment>From My_store</Comment>
+    <Artist>AB CVBNM</Artist>
+    <Publisher></Publisher>
+    <Genre>scifi</Genre>
+    <Year>2020</Year>
+    <ProductID>0</ProductID>
+  </Item>
+  <Item>
+    <Name>Test Bok 2</Name>
+    <Count>50</Count>
+    <Price>33</Price>
+    <Comment>From My_store</Comment>
+    <Artist>G T SDFGGH</Artist>
+    <Publisher></Publisher>
+    <Genre>popular</Genre>
+    <Year>2020</Year>
+    <ProductID>1</ProductID>
+  </Item>
+  <Item>
+    <Name>Test DVD1</Name>
+    <Count>50</Count>
+    <Price>88</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>2</ProductID>
+  </Item>
+  <Item>
+    <Name>Test Spel 1</Name>
+    <Count>50</Count>
+    <Price>80</Price>
+    <Comment>From My_store</Comment>
+    <Artist></Artist>
+    <Publisher></Publisher>
+    <Genre></Genre>
+    <Year>2020</Year>
+    <ProductID>3</ProductID>
+  </Item>
+  <Item>
+    <Name>ABABAB</Name>
+    <Count>50</Count>
+    <Price>88</Price>
+    <Comment>From My_store</Comment>
+    <Artist>NNNN</Artist>
+    <Publisher></Publisher>
+    <Genre>pop</Genre>
+    <Year>2020</Year>
+    <ProductID>600</ProductID>
+  </Item>
+</Inventory>
